@@ -4,4 +4,4 @@ Fully functional chess engine in MS Excel. No tables or opening books used. Each
 This was my hobby project and hence speed or efficiency was not of much importance.
 My objective was to succeed in a seemingly difficult task (at least to someone who has no training in programming) of making an excel sheet play chess against you.
 
-![Alt text](/relative/path/to/Capture.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/Manulal-M-Inasu/chess-in-excel/blob/master/Capture.JPG)
